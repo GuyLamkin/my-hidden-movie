@@ -1,0 +1,60 @@
+body {
+    background: rgba(0, 0, 0, 0.8) url(../img/background.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 75px;
+
+}
+
+header {
+
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+    margin-right: 0 auto;
+    margin-left: 0 auto;
+
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+
+div2 {
+    width: 400px;
+    height: 225px;
+    align-items: center;
+    margin: 0 auto
+}
+
+div3 {
+    align-items: center;
+    margin: 0 auto
+}
+
+iframe {
+    width: 400px;
+    height: 225px;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h3 {
+    color: white;
+}
